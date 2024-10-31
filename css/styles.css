@@ -1,0 +1,181 @@
+body {
+  font-family: Roboto, Raleway;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo-1 {
+  font-family: Raleway;
+  font-size: 18px;
+  line-height: 7/6;
+  text-transform: uppercase;
+  color: #2e2f42;
+  font-weight: 700;
+}
+
+.logo-span {
+  color: #4d5ae5;
+}
+
+.nav-link {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.address-link {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+
+.main-page {
+  background-color: #2e2f42;
+}
+
+.main-page-title {
+  font-family: Roboto;
+  font-size: 56px;
+  line-height: 15/14;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+}
+
+.main-page-button {
+  width: 169px;
+  height: 56px;
+  background-color: #4d5ae5;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.main-page-button:hover,
+.main-page-button:focus {
+  background-color: #404bbf;
+}
+
+.utility-subtitle {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.utility-description {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #434455;
+}
+
+.our-team {
+  background-color: #f4f4fd;
+}
+
+.our-team-title {
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: 10/9;
+  font-weight: 700;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.our-team-card {
+  background-color: #ffffff;
+}
+
+.our-team-subtitle {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.our-team-description {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #434455;
+  text-align: center;
+}
+
+.our-portfolio-title {
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: 10/9;
+  font-weight: 700;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.our-portfolio-subtitle {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.our-portfolio-text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #434455;
+  text-align: center;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.logo-2 {
+  font-family: Raleway;
+  font-size: 18px;
+  line-height: 7/6;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  font-weight: 700;
+}
+
+.footer-text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #f4f4fd;
+}
