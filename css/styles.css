@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif, "Raleway";
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -67,8 +67,6 @@ ul {
   width: 169px;
   height: 56px;
   background-color: #4d5ae5;
-  border: none;
-  /*  border-radius: 4px;*/
   color: #ffffff;
   font-family: Roboto;
   font-size: 16px;
