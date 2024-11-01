@@ -13,8 +13,8 @@ ul {
 }
 
 .logo {
-  font-family: "Raleway", sans-serif;
   font-size: 18px;
+  font-family: "Raleway";
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -27,7 +27,6 @@ ul {
 }
 
 .nav-link {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   color: #2e2f42;
@@ -36,7 +35,6 @@ ul {
 }
 
 .address-link {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
@@ -61,7 +59,6 @@ address {
 }
 
 .main-page-title {
-  font-family: Roboto;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -87,7 +84,6 @@ address {
 }
 
 .utility-subtitle {
-  font-family: Roboto;
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
@@ -96,7 +92,6 @@ address {
 }
 
 .utility-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
@@ -109,7 +104,6 @@ address {
 }
 
 .our-team-title {
-  font-family: Roboto;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -124,7 +118,6 @@ address {
 }
 
 .our-team-subtitle {
-  font-family: Roboto;
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
@@ -134,7 +127,6 @@ address {
 }
 
 .our-team-description {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
@@ -144,7 +136,6 @@ address {
 }
 
 .our-portfolio-title {
-  font-family: Roboto;
   font-size: 36px;
   line-height: 1.11;
   font-weight: 700;
@@ -155,7 +146,6 @@ address {
 }
 
 .our-portfolio-subtitle {
-  font-family: Roboto;
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
@@ -165,7 +155,6 @@ address {
 }
 
 .our-portfolio-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -179,7 +168,6 @@ address {
 }
 
 .logo-span {
-  font-family: Raleway;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -189,7 +177,6 @@ address {
 }
 
 .footer-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
