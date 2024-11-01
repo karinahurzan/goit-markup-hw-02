@@ -45,6 +45,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+address {
+  font-style: normal;
+}
+
 .nav-link:hover,
 .nav-link:focus,
 .address-link:hover,
