@@ -181,7 +181,8 @@ address {
 .logo-span {
   font-family: Raleway;
   font-size: 18px;
-  line-height: 7/6;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
   font-weight: 700;
